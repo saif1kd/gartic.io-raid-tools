@@ -10,8 +10,11 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo hello world"
-  },
+   "scripts": {
+  "start": "node index.js",
+  "test": "echo hello world"
+}
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Eld3rly/gartic.io-raid-tools.git"
